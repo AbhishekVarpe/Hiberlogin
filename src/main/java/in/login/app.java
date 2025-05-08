@@ -49,6 +49,7 @@ public class app {
 		}else if (option=='n') {
 			System.out.println("ok Done");
 			System.out.println("asdfghjk");
+			System.out.println();
 			
 		}{
 			
